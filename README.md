@@ -1,18 +1,18 @@
 
 #Ainda falta bastante coisa
 <h1 align="center">
-    <img src="index.png">
+    <img src="Easy-E/index.png">
 <h1>
 
 <h1 align="center">
-    <img src="cadastro.png">
+    <img src="Easy-E/cadastro.png">
 <h1>
 
 <br/>
 <h1 align="center">
-    <img src="cadastro.png">
+    <img src="Easy-E/cadastro.png">
 <h1>
 <h1 align="center">
-    <img src="profile.png">
+    <img src="Easy-E/profile.png">
 <h1>
 
