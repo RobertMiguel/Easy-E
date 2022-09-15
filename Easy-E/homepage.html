@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eazy-E | Homepage</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="stylesheet" href="css/sweetalert2.css">
+    <link rel="stylesheet" href="inbox.css">
+    <link rel="stylesheet" href="chat.css">
+    <link rel="stylesheet" href="profile.css">
+    <link rel="stylesheet" href="homepage.css">
+    <link rel="stylesheet" href="/js/jquery-3.6.1.min.js">
+    <link rel="stylesheet" href="/js/sweetalert2.js">
+</head>
+<body>
+    <div class="cor">
+        <div id="loading">Loading&#8230;</div>
+
+        <div id="inbox" class="column">
+            <p class="title">Conversas</p>
+            <input type="text" maxlength="15" name="username" class="searchField" onkeyup="search()" placeholder="Pesquisar utilizador" />
+            <div id="searchContainer"></div>
+            <div class="container"></div>
+        </div>
+    
+        <div id="chat" class="column"></div>
+    
+        <div id="profile" class="column">
+            <p class="title">Perfil</p>
+            <div class="container"></div>
+            <div class="menu">
+                <button onclick="logout()">Sair</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
