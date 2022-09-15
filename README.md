@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ChatBot-Easy-E
 # Ainda falta bastante coisa
 <h1 align="center">
@@ -21,5 +20,7 @@
 <h1 align="center">
     <img src="cadastro.png">
 <h1>
->>>>>>> 7a0ed68 (chat)
->>>>>>> b9b6bf8 (chat)
+<h1 align="center">
+    <img src="profile.png">
+<h1>
+
