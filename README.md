@@ -1,5 +1,3 @@
-
-#Ainda falta bastante coisa
 <h1 align="center">
     <img src="Easy-E/index.png">
 <h1>
